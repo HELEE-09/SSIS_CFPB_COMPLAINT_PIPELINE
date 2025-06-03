@@ -1,0 +1,3 @@
+Paste the below link in google chrome browser.
+
+https://www.consumerfinance.gov/data-research/consumer-complaints/search/api/v1/?date_received_max=2025-05-15&date_received_min=2025-02-15&field=all&format=csv&no_aggs=true&size=1147954
