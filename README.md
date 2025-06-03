@@ -1,6 +1,5 @@
 # SSIS_CFPB_COMPLAINT_PIPELINE
 
-🔗 Download CSV Data (CFPB Complaints)
 
 ## 📌 Project Overview
 This project involves building a robust **ETL pipeline in SQL Server Integration Services (SSIS)** for integrating data from multiple sources. While working with a complex Data Flow Task, the following error occurred:
